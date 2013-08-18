@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package aula;
+package Clase_3.aula;
 
 import java.text.DateFormat;
 import java.text.NumberFormat;
@@ -12,7 +12,7 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.GregorianCalendar;
 import java.util.Locale;
-import libreria.Utiles;
+import Clase_3.libreria.Utiles;
 
 /**
  *

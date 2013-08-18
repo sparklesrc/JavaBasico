@@ -2,9 +2,9 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package libreria;
+package Clase_3.libreria;
 
-import aula.Formato;
+import Clase_3.aula.Formato;
 import java.text.DateFormat;
 import java.util.Date;
 

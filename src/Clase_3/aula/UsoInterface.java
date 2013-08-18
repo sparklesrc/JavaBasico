@@ -2,11 +2,11 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package aula;
+package Clase_3.aula;
 
-import aula.usoInterface.Capitalizable;
-import aula.usoInterface.Oraciones;
-import aula.usoInterface.Palabra;
+import Clase_3.aula.usoInterface.Capitalizable;
+import Clase_3.aula.usoInterface.Oraciones;
+import Clase_3.aula.usoInterface.Palabra;
 
 /**
  *
